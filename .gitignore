@@ -1,0 +1,31 @@
+# Virtual environment
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Test cache
+.pytest_cache/
+
+# Python build files
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# History files (optional)
+calculator_history.txt
